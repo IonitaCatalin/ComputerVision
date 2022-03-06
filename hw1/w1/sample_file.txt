@@ -1,0 +1,2 @@
+This is the first exercise of CV2022. 
+We are learning how to code in Python.
