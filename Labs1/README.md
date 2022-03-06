@@ -1,4 +1,4 @@
-#Requirements
+# Requirements
 
 1bp 1) Using numpy indexing implement a generic 2D convolution operation working on single channel inputs. Consider using both indexing and block matrix operations to compute the convolution output. Compare the runtime against the dimensions of the convolution filter, keeping the same image dimensions. Plot the result of the convolution on each channel using subfigures from matplotlib.
 
