@@ -7,3 +7,4 @@ Each laboratory has its associated folder with an additional file README.md used
 # Status
 
  - **[Laboratory 1](https://github.com/IonitaCatalin/ComputerVision/tree/master/Labs1)** ✔️
+ - **[Laboratory 2](https://github.com/IonitaCatalin/ComputerVision/tree/master/Labs2)** ✔️
